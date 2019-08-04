@@ -1,0 +1,6 @@
+path	md5
+--------------------------------
+libcurl.dll	2439b29f0651f4a759e1c43ccbe92f2f
+libeay32.dll	b9b95d33470ac62260b4891bce6c8089
+postprocUpdater.exe	e0ddc68544e58c4231728da5faf30666
+ssleay32.dll	d8f52f2520456a09b6e117f7ca1f1d43

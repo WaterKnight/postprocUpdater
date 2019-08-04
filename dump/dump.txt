@@ -1,0 +1,22 @@
+	/*CFTPClient *server = new CFTPClient;
+	CFTPClient *ftpClient = new CFTPClient;
+
+
+
+	CLogonInfo logInfo;
+
+	const char *hostName = "inwcfunmap.bplaced.net";
+
+	   logInfo.SetHost(static_cast<LPCTSTR>(hostName), static_cast<USHORT>(21),
+	                     static_cast<LPCTSTR>("inwcfunmap"), static_cast<LPCTSTR>("blubby7"),
+	                     static_cast<LPCTSTR>("none"));
+
+	bool logb = server->Login(logInfo);
+
+	cout << logb << endl;
+
+	CRepresentation pres = CRepresentation(CType::Image());
+
+	bool b = server->DownloadFile(tstring("postproc/JNGP/license.txt"), tstring("D:\\ftpclienttest.txt"), pres, false);
+
+	cout << b << endl;*/
